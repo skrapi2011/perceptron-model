@@ -4,6 +4,10 @@ Implementation of perceptron recognizing plants based on input vector.
 
 Project does not use any AI framework, it is made from scratch in java using math equations to calculate weights and bias.
 
+Included [datasets](https://www.researchgate.net/publication/267221492_Chapter_1_Compact_Fuzzy_Models_and_Classifiers_through_Model_Reduction_and_Evolutionary_Optimization) are well-filtered so training and guessing are usually effective:
+![image](https://github.com/user-attachments/assets/fa5f6e7d-86b2-4e6b-a1d4-6cd7ffccc742)
+
+
 # Setup
 To properly run project, we need to specify CLI arguments indicating:
 + alpha (learning rate) - specifies learning accuracy (0.1 - slow, 0.9 - high)
